@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://docohehuda.zhangzhaoxin.me/sitemap.xml
